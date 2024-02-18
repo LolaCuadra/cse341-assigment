@@ -12,7 +12,7 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host": "birch-portfolio-builder.herokuapp.com",
+  "host": "https://cse341-assigment.onrender.com",
   "basePath": "/",
   "tags": [
     {
