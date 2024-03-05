@@ -15,7 +15,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^16.4.4",
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "express-openid-connect": "^2.17.1",
     "joi": "^17.6.0",
     "joi-password-complexity": "^5.1.0",
